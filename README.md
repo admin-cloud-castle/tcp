@@ -42,7 +42,7 @@ Production-ready PHP 8.1+ библиотека Tcp (CloudCastle).
 [![Maintainability](https://qlty.sh/gh/admin-cloud-castle/projects/tcp/maintainability.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/tcp)
 [![Qlty Coverage](https://qlty.sh/gh/admin-cloud-castle/projects/tcp/coverage.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/tcp)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/admin-cloud-castle/tcp/badge)](https://scorecard.dev/viewer/?uri=github.com/admin-cloud-castle/tcp)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects?as=badge&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Ftcp)](https://www.bestpractices.dev/projects?as=entry&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Ftcp)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15733/badge)](https://www.bestpractices.dev/projects/15733)
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=admin-cloud-castle_tcp&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=admin-cloud-castle_tcp)
 [![Snyk](https://snyk.io/test/github/admin-cloud-castle/tcp/badge.svg)](https://snyk.io/test/github/admin-cloud-castle/tcp)
 [![Codacy](https://img.shields.io/badge/Codacy-dashboard-blue)](https://app.codacy.com/gh/admin-cloud-castle/tcp/dashboard)
